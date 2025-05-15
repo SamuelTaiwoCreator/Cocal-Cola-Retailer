@@ -1,1 +1,1 @@
-# Cocal-Cola-Retailer
+# Coca-Cola-Retailer
